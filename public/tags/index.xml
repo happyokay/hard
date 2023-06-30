@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Congo</title>
-    <link>hard-6ic.pages.dev/tags/</link>
+    <link>hard.im/tags/</link>
     <description>Recent content in Tags on Congo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="hard-6ic.pages.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="hard.im/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

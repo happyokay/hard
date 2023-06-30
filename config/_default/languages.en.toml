@@ -1,8 +1,8 @@
-languageCode = "en"
-languageName = "English"
+languageCode = "zh_CN"
+languageName = "Chinese"
 weight = 1
 
-title = "Congo"
+title = "hard.im"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 [params]

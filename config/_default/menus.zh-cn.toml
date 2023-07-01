@@ -16,9 +16,11 @@
   weight = 10
 
 [[main]]
-  name = "分类"
-  pageRef = "categories"
+  name = "周报"
+  url = 'https://www.kele.me'
   weight = 20
+  [main.params]
+    rel = 'external'
 
 [[main]]
   name = "标签"

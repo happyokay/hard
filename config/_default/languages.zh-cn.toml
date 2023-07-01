@@ -1,13 +1,13 @@
-languageCode = "zh"
-languageName = "Chinese"
+languageCode = "zh-cn"
+languageName = "Chinese - Simplified (China)"
 weight = 1
 
-title = "做困难的事 hard.im"
+title = "~/hard.im"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 [params]
-  isoCode = "zn"
-  displayName = "zn"
+  isoCode = "zh-CN"
+  displayName = "zh-CN"
   rtl = false
 
   dateFormat = "2 January 2006"
@@ -16,8 +16,8 @@ title = "做困难的事 hard.im"
   # description = "My awesome website"
 
 [author]
-name = "happy xiao"
-image = "img/author.jpg"
+  # name = "happy xiao"
+  # image = "img/author.jpg"
   # headline = "I'm only human"
   # bio = "A little bit about you"
   # links = [

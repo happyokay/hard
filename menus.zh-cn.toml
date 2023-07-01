@@ -22,10 +22,10 @@
   [main.params]
     rel = 'external'
     
-[[main]]
-  name = "标签"
-  pageRef = "tags"
-  weight = 30
+#[[main]]
+#  name = "标签"
+#  pageRef = "tags"
+#  weight = 30
   
 [[main]]
   name = "RSS"

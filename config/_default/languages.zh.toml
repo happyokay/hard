@@ -1,13 +1,13 @@
-languageCode = "zh_CN"
+languageCode = "zh"
 languageName = "Chinese"
 weight = 1
 
-title = "hard.im"
+title = "做困难的事 hard.im"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 [params]
-  isoCode = "en"
-  displayName = "EN"
+  isoCode = "zn"
+  displayName = "zn"
   rtl = false
 
   dateFormat = "2 January 2006"
@@ -16,12 +16,12 @@ title = "hard.im"
   # description = "My awesome website"
 
 [author]
-  # name = "Your name here"
-  # image = "img/author.jpg"
+name = "happy xiao"
+image = "img/author.jpg"
   # headline = "I'm only human"
   # bio = "A little bit about you"
   # links = [
-  #   { email = "mailto:hello@your_domain.com" },
+  #   { email = "mailto:hnx@live.com" },
   #   { link = "https://link-to-some-website.com/" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
   #   { apple = "https://www.apple.com" },

@@ -3,7 +3,7 @@ languageName = "Chinese - Simplified (China)"
 weight = 1
 
 title = "~/hard.im"
-# copyright = "Copy, _right?_ :thinking_face:"
+copyright = "© 2023  happy xiao"
 
 [params]
   isoCode = "zh-CN"

@@ -21,11 +21,19 @@
   weight = 20
   [main.params]
     rel = 'external'
-
+    
 [[main]]
   name = "标签"
   pageRef = "tags"
   weight = 30
+  
+[[main]]
+  name = "RSS"
+  pre = '<i class="fa fa-heart"></i>'
+  url = 'https://hard.im/index.xml'
+  weight = 40
+  [main.params]
+    rel = 'external'      
 
 [[main]]
   identifier = "搜索"

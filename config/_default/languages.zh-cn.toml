@@ -3,7 +3,7 @@ languageName = "Chinese - Simplified (China)"
 weight = 1
 
 title = "~/hard.im"
-copyright = "© 2023  happy xiao"
+copyright = "© 2023  [happy xiao](https://twitter.com/coolXiao)"
 
 [params]
   isoCode = "zh-CN"

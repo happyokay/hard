@@ -5,6 +5,9 @@ tags: [""]
 categories: [""]
 draft: false
 ---
-👋你好，我是 [happy](https://twitter.com/coolXiao)。我想做困难的事情，在这里记录下来。
+👋你好，我是 [happy](https://twitter.com/coolXiao)。我想做困难的事情，我用这个网站来记录：
 
-免费订阅👉[可乐周报](https://www.kele.me)。
+- 什么是困难的事，以及
+- 我做了哪些困难的事
+
+想看更多来自我的分享，请免费订阅👉[可乐周报](https://www.kele.me)。

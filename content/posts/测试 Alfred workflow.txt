@@ -1,10 +1,10 @@
 ---
-title: Alfred action
+title: 测试 Alfred
 date: 2023-07-08T08:42:21+08:00
 tags:
 - 
 summary: test
-slug: Alfred 
+slug: Alfred
 ---
-Ok
 
+test Alfred workflow

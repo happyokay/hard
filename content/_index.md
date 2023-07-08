@@ -9,4 +9,4 @@ draft: false
 
 免费订阅[可乐周报](https://www.kele.me)👇
 
-<iframe src="https://www.kele.me/embed" width="480" height="320"; background:white;" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://www.kele.me/embed" width="480" height="320" style="background:transparent;" frameborder="0" scrolling="no"></iframe>

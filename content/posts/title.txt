@@ -1,8 +1,9 @@
 ---
-title: 
+title: Alfred action
 date: 2023-07-08T08:42:21+08:00
 tags:
 - 
 summary: 
 slug: 
 ---
+Ok

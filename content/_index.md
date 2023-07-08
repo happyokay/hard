@@ -5,8 +5,8 @@ tags: [""]
 categories: [""]
 draft: false
 ---
-👋你好，我是 [happy](https://twitter.com/coolXiao)。
+👋你好，我是 [happy](https://twitter.com/coolXiao)。我想做困难的事情，在这里记录下来。
 
-我写🥤[可乐周报](https://www.kele.me)。
+免费订阅[可乐周报](https://www.kele.me)👇
 
-我想做困难的事情，在这里记录下来。
+<iframe src="https://www.kele.me/embed" width="480" height="320"; background:white;" frameborder="0" scrolling="no"></iframe>
